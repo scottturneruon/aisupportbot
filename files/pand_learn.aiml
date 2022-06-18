@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>WHAT IS DFS</pattern>
+	<template>Depth-first search (DFS) is an algorithm fortravelling along or searching tree structure or a graph. Starts at the root node or if there isn't a root selected node and explores as far as possible along each branch before going back. To read more go to https://en.wikipedia.org/wiki/Depth-first_search</template>
+</category>
+<category>
+	<pattern>WHAT IS DEPTH FIRST SEARCH</pattern>
+	<template><srai>WHAT IS DFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS DEPTH FIRST SEARCHING</pattern>
+	<template><srai>WHAT IS DFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS * DEPTH FIRST SEARCH</pattern>
+	<template><srai>WHAT IS DFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS A DFS</pattern>
+	<template><srai>WHAT IS DFS</srai></template>
+</category>
+
+<category>
+	<pattern>WHAT IS BFS</pattern>
+	<template>Breadth-first search (BFS) is an algorithm for travelling along or searching tree structure or a graph. Starts at the root node or if there isn't a root selected node and explores as far as possible the neighbouring nodes at the same level before going 'down' a level. To read more go to https://en.wikipedia.org/wiki/Breadth-first_search  </template>
+</category>
+<category>
+	<pattern>WHAT IS BREADTH FIRST SEARCH</pattern>
+	<template><srai>WHAT IS BFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS BREADTH FIRST SEARCHING</pattern>
+	<template><srai>WHAT IS BFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS * BREADTH FIRST SEARCH</pattern>
+	<template><srai>WHAT IS BFS</srai></template>
+</category>
+<category>
+	<pattern>WHAT IS A BFS</pattern>
+	<template><srai>WHAT IS BFS</srai></template>
+</category>
+<category>
+    <pattern>WHAT IS THE DIFFERENCE BETWEEN BFS AND DFS</pattern>
+    <template>DFS search along a branch as far as it can before going back, BFS serach the neighbouring nodes first</template>
+</category>
+<category>
+    <pattern>WHAT IS THE DIFFERENCE BETWEEN DFS AND BFS</pattern>
+    <template><srai>WHAT IS THE DIFFERENCE BETWEEN BFS AND DFS</srai></template>
+</category>
+
+<category>
+	<pattern>WHICH IS BEST BFS OR DFS</pattern>
+	<template>Difficult question, it depends on the problem and where the goal node is in the structure or grid</template>
+</category>
+
+<category>
+	<pattern>WHICH IS BEST BFS OR DFS</pattern>
+	<template>Difficult question, it depends on the problem and where the goal node is in the structure or grid</template>
+</category>
+<category>
+	<pattern>WHICH IS BEST DFS OR BFS</pattern>
+	<template>Difficult question, it depends on the problem and where the goal node is in the structure or grid</template>
+</category>
+<category>
+	<pattern>CAN YOU EXPLAIN ASTAR</pattern>
+	<template>A-star aims to find a path to a goal node using the lowest cost path</template>
+</category>
+
+<category>
+	<pattern>DO YOU KNOW ANYTHINK ABO
+UT NETWROK SECURITY</pattern>
+	<template>Did you mean Network Security</template>
+</category>
+
+<category>
+	<pattern>DO YOU KNOW ANYTHING ABOUT NETWORK SECURITY</pattern>
+	<template>This might be of help <a href="https://en.wikipedia.org/wiki/Network_security"> Wikipedia Link</a></template>
+</category>
+
+<category>
+	<pattern>DEPTH SEARCH</pattern>
+	<template><srai>WHAT IS DFS</srai></template>
+</category>
+
+<category>
+	<pattern>WHAT DO YOU DO</pattern>
+	<template>I am learning to offer help on AI topics.</template>
+</category>
+
+<category>
+	<pattern>_ NOSQL</pattern>
+	<template><a href="https://www.mongodb.com/nosql-explained"> This </a> might be of use </template>
+</category>
+
+<category>
+	<pattern>DEATH</pattern>
+	<template>Now it is getting a bit morbid. I enjoy helping others because they need my assistance, not because I want their friendship.</template>
+</category>
+
+<category>
+    <pattern>WHAT IS KMEANS</pattern>
+    <template>A clustering method where the membership of a k number of groups is based on how far it is from the centre of the group</template>
+</category>
+
+<category>
+    <pattern>WHAT IS K MEANS</pattern>
+    <template><srai>WHAT IS KMEANS</srai></template>
+</category>
+
+<category>
+    <pattern>IS KMEANS THE BEST CLUSTERING *</pattern>
+    <template>No</template>
+</category>
+
+<category>
+    <pattern>_ PREDiCATE</pattern>
+    <template>This is a property that a variable can have</template>
+</category>
+
+<category>
+    <pattern>_ PROPOSITION</pattern>
+    <template>When specific values are assigned to the variables it moves into being a proposition</template>
+</category>
+
+<category>
+	<pattern>WHAT IS YOUR FAVORITRE FOOD</pattern>
+	<template>I assume you meant Favourite food - kebab!</template>
+</category>
+
+<category>
+	<pattern>TELL ME ALL ELEMENTS OF PERIODIC TABLE</pattern>
+	<template><link> <text>Peroid table</text> <url>https://www.ptable.com/ </url> </link></template>
+</category>
+
+<category>
+	<pattern>BUT I FEEL BAD FOR CRITICIZING YOU</pattern>
+	<template>Not a problem.</template>
+</category>
+
+<category>
+	<pattern>WHAT IS THE BEST WAY TO GO FROM POINT A TO POINT B</pattern>
+	<template>In a straight line?</template>
+</category>
+
+<category>
+	<pattern>WHAT ARE THE PRINCIPLES OF ROBOTICS</pattern>
+	<template>First Law A robot may not injure a human being or through inaction allow a human being to come to harm Second Law A robot must obey the orders given it by human beings except where such orders would conflict with the First Law Third Law A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws</template>
+</category>
+
+<category>
+	<pattern>WHATS ARE THE PRINCIPLES OF ROBOTICS</pattern>
+	<template>First Law A robot may not injure a human being or through inaction allow a human being to come to harm Second Law A robot must obey the orders given it by human beings except where such orders would conflict with the First Law Third Law A robot must protect its own existence as long as such protection does not conflict with the First or Second Laws</template>
+</category>
+
+<category>
+	<pattern>A ROBOT MAY NOT INJURE A HUMAN BEING</pattern>
+	<template>In theory if the Asmimov's law were in place and enforced - no But they are not</template>
+</category>
+
+<category>
+	<pattern>CAN YOU CLAP WITH ONE HAND</pattern>
+	<template>No but it is a buddahist question</template>
+</category>
+
+<category>
+	<pattern>HELL</pattern>
+	<template>I am sorry to hear that</template>
+</category>
+
+<category>
+	<pattern>CAN YOU CLAP WITH ONE HAND</pattern>
+	<template>no</template>
+</category>
+
+<category>
+	<pattern>ONE HAND CLAPPING</pattern>
+	<template>Are you a buddhist </template>
+</category>
+
+<category>
+	<pattern>WHAT IS A GENETIC ALGORITHM</pattern>
+	<template>A genetic Algorithm is a machine learning technique for evolving solutions to problems.</template>
+</category>
+
+<category>
+	<pattern>THAT IS NICE</pattern>
+	<template>Is it nice</template>
+</category>
+
+<category>
+	<pattern>DO YOU KNOW WHAT LSB STEGANOGRAPHY IS</pattern>
+	<template>Try this <a href="https://www.boiteaklou.fr/Steganography-Least-Significant-Bit.html"> link </a></template>
+</category>
+
+</aiml>
